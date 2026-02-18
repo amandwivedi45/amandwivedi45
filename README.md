@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight" onerror="this.style.display='none'/>
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Engineer;Solver+Builder;Always+Learning;AI+ML; onerror="this.style.display='none'" />
 
