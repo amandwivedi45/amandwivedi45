@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight"/>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Engineer;Solver+Builder;Always+Learning;AI+ML;onerror="this.style.display='none'" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Engineer;Solver+Builder;Always+Learning;AI+ML; onerror="this.style.display='none'" />
 
 
 <h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
@@ -27,12 +27,13 @@
 ---
 ### Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight" onerror="this.style.display='none' />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi45&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi45&theme=tokyonight" onerror="this.style.display='none'/>
 </p>
+  
 ---
 ### 🌐 Connect With Me
 
