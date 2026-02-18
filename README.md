@@ -23,6 +23,17 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,html,css,js,react,mysql,mongodb,postgres,git,github,linux,tensorflow,pytorch,sklearn" />
 </p>
+---
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi45&theme=tokyonight" />
+</p>
+
 
 ---
 ### 🌐 Connect With Me
