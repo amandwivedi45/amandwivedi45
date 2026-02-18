@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
+<h3 align="center">Backend Developer | Java | Blockchain</h3>
+
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech Computer Science Student  
+- 💻 Java Backend Developer  
+- 🔗 Built Blockchain & ML Projects  
+- 🌱 Currently learning System Design  
+- ⚡ I ship real projects, not tutorials
+
+---
+
+### 🛠 Tech Stack
+
 <!--
 **amandwivedi45/amandwivedi45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
