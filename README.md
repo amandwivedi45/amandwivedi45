@@ -19,11 +19,11 @@
 - ⚡ I ship real projects, not tutorials
 
 ---
-
-### 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,c++,html,css,js,react,mysql,mongodb,machine learning,postgres,git,github,linux" />
+### Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,html,css,js,react,mysql,mongodb,postgres,git,github,linux,tensorflow,pytorch,sklearn" />
 </p>
+
 ---
 ### 🌐 Connect With Me
 
