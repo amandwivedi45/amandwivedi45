@@ -24,8 +24,8 @@
 <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,html,css,js,react,mysql,mongodb,postgres,git,github,linux,tensorflow,pytorch,sklearn" />
 </p>
 ---
-### 📊 GitHub Stats
 
+### Github Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight" />
 </p>
@@ -34,6 +34,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi45&theme=tokyonight" />
 </p>
 
+---
+### 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/amandwivedi45/amandwivedi45/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 ### 🌐 Connect With Me
