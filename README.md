@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amandwivedi45&show_icons=true&theme=tokyonight"/>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Engineer;Solver+Builder;Always+Learning;AI+ML;" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Engineer;Solver+Builder;Always+Learning;AI+ML;onerror="this.style.display='none'" />
 
 
 <h1 align="center">Hi 👋, I'm Aman Dwivedi</h1>
@@ -33,14 +33,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandwivedi45&theme=tokyonight" />
 </p>
-
----
-### 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amandwivedi45/amandwivedi45/snake.yml">
-</p>
-
 ---
 ### 🌐 Connect With Me
 
